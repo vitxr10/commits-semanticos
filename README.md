@@ -1,8 +1,4 @@
-# Tipos de Commits Semânticos
-
-Este documento fornece uma lista de tipos de commits semânticos para padronizar e organizar as mensagens de commit em seu projeto. Utilizar commit messages semânticas ajuda a manter um histórico de commits claro e informativo, facilitando a compreensão e manutenção do código.
-
-## Tipos de Commits
+# Tipos de Commits Semânticos:
 
 - **build**: Alterações que afetam o sistema de construção ou dependências externas (escopos de exemplo: gulp, broccoli, npm)
 
